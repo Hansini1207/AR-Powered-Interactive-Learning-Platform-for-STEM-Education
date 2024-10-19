@@ -40,5 +40,5 @@ Enhance Accessibility: Offer a platform that accommodates different learning sty
 Facilitate Collaboration: Foster a collaborative learning environment where students can explore STEM topics together using AR technology.
 
 
-
+# #############
 The AR-Powered STEM Learning Platform aims to redefine the learning experience for students by combining interactive technology with essential STEM education. Although still in the conceptual phase, this project envisions the use of cutting-edge AR technology to support teachers and inspire students to explore the world of science with new perspectives.
